@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "147613019155",
+    "firebase_url": "https://flutterchatter-fd016.firebaseio.com",
+    "project_id": "flutterchatter-fd016",
+    "storage_bucket": "flutterchatter-fd016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147613019155:android:cf3ef86b542b7ad9d9a3e6",
+        "android_client_info": {
+          "package_name": "com.flutter_chatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147613019155-kqe8bjm7m8vj5b984odb2s2fv39ae7sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq_0DMN5wi4Z0JLRkbMvldTfyNfAazbaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147613019155-kqe8bjm7m8vj5b984odb2s2fv39ae7sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

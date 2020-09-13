@@ -1,0 +1,22 @@
+[
+  {
+    "name" : "Animesh Banerjee",
+    "age" :"23",
+    "gender" :"Male"
+  },
+  {
+    "name" : "Sayan Banerjee",
+    "age" :"10",
+    "gender" :"Male"
+  },
+  {
+    "name" : "Shubhadip Banerjee",
+    "age" :"32",
+    "gender" :"Male"
+  },
+  {
+    "name" : "Minoty Banerjee",
+    "age" :"20",
+    "gender" :"Female"
+  }
+]
